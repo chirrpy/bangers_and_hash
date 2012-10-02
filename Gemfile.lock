@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    bangers_and_hash (0.0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bangers_and_hash!
